@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  text-align: center;
+  background-image: linear-gradient(#fcb045, brown, #fdbb2d);
+}
+.para {
+  background-color: chocolate;
+  width: 850px;
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 20px;
+  color: white;
+}
+.logo {
+  margin-right: 180px;
+  margin-top: 20px;
+}
