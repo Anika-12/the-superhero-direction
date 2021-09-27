@@ -1,11 +1,7 @@
-* {
-  margin: 0;
-  padding: 0;
-}
-
 .header {
   text-align: center;
-  background-image: linear-gradient(#fcb045, brown, #fdbb2d);
+  
+  
 }
 .para {
   background-color: chocolate;

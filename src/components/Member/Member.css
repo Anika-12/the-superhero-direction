@@ -1,0 +1,14 @@
+.size {
+  vertical-align: middle;
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
+
+
+  .btn-regular{
+      background-color:black;
+      font-size: large;
+      color:whitesmoke;
+     
+  }
